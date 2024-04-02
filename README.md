@@ -1,2 +1,1 @@
-# Neptun
-Neptun
+This sample project started on the .NET 8.0 platform following Microservice architecture and adhering to Domain-Driven Design (DDD) patterns. It also utilizes the CQRS principle. Additionally, NuGet libraries were utilized for validation and mapping purposes.
